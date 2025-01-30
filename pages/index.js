@@ -53,6 +53,11 @@ export default function Home() {
       {data.showCursor && <Cursor />}
       <Head>
         <title>{data.name}</title>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3034352982760856"
+          crossOrigin="anonymous"
+        ></script>
       </Head>
 
       <div className="gradient-circle"></div>
